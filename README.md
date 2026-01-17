@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! I'm `FatFrogDev`, a passionate developer with a love for coding and problem-solving. I enjoy working on various projects and exploring new technologies. My GitHub profile showcases my journey in the world of software development, where I have contributed to numerous repositories and collaborated with other developers.
+Hello there! I'm `deyby`!, a passionate developer with a love for coding and problem-solving. I enjoy working on various projects and exploring new technologies. My GitHub profile showcases my journey in the world of software development, where I have contributed to numerous repositories and collaborated with other developers.
 
 ---
 
