@@ -1,6 +1,8 @@
 # About Me
 
-Hello there! I'm `deyby`!, a passionate developer with a love for coding and problem-solving. I enjoy working on various projects and exploring new technologies. My GitHub profile showcases my journey in the world of software development, where I have contributed to numerous repositories and collaborated with other developers.
+Hello there! I'm `deyby`!, a passionate developer with a love for coding and problem-solving. I enjoy working on various projects and exploring new technologies. My GitHub profile showcases my journey in the world of software development, where I have contributed to numerous repositories and collaborated with other developers. I'm currently working for [Punto De Pago](https://www.linkedin.com/company/punto-de-pago-multibanco/posts/)!.
+This is a 'new' profile, the previous one was [this](https://github.com/FatFrogDev), but I lost that account.
+
 
 ---
 
@@ -8,7 +10,8 @@ I have a strong background in programming languages, mainly in Java. I'm also ex
 
 ---
 
-Feel free to explore my repositories to get a better understanding of my skills and interests. If you have any questions or would like to collaborate on a project, don't hesitate to reach out. Let's create something amazing together ♥.
+Feel free to explore my repositories to get a better understanding of my skills and interests.
+If you have any questions or would like to collaborate on a project, don't hesitate to reach out through any social media. Let's create something amazing together ♥.
 
 # Languages/Tools I have worked with
 
